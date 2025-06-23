@@ -2,6 +2,9 @@
 
 A sleek and feature-rich calculator with a **graphical user interface (GUI)** built for precision and productivity. This app supports multiple calculator modes and theme customization, making it ideal for both everyday users and developers.
 
+![Calculator 6_23_2025 10_12_25 PM](https://github.com/user-attachments/assets/8739c544-61d0-40fa-b824-229d4f9cf01f)
+
+
 ## 🚀 Features
 
 - 🧭 **Side Menu Navigation**
